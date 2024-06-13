@@ -5,9 +5,3 @@ A pesquisa bibliográfica foi realizada para identificar e compreender o estado 
 Compreender as necessidades da área de saúde no Brasil é essencial para desenvolver soluções eficazes, como um aplicativo móvel para marcação de consultas. No Brasil, as desigualdades regionais e a alta demanda por serviços de saúde pública tornam crucial a análise de dados epidemiológicos e demográficos para identificar as principais necessidades de saúde, incluindo a prevalência de doenças crônicas e a necessidade de serviços especializados (Ministério da Saúde, 2019). A infraestrutura de saúde e a distribuição desigual de profissionais de saúde, especialmente em áreas remotas e rurais, são fatores críticos que influenciam a acessibilidade dos serviços (IBGE, 2020; Fiocruz, 2020).
 O desenvolvimento de um protótipo de aplicativo móvel para marcação de consultas deve considerar a diversidade de usuários no Brasil. A criação de uma versão inicial do aplicativo permite testar suas funcionalidades, como a interface do usuário, o fluxo de marcação, notificações de confirmação e lembretes, além de opções para escolha de profissionais e horários disponíveis. Testar este protótipo com usuários reais, incluindo pacientes do Sistema Único de Saúde (SUS) e profissionais de saúde, ajuda a identificar falhas e necessidades específicas, garantindo que a solução final seja eficiente, fácil de usar e adaptada às exigências dos usuários (Portal de Boas Práticas em Saúde, 2021).
 
-
-
-## Documentação
-
-[Documentação](https://link-da-documentação)
-
