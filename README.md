@@ -1,5 +1,5 @@
 # Sobre
-  Esse repositório tem como finalidade organizar os arquivos do trabalho MarcaiSUS: Uma proposta de aplicativo para marcação de consultas e exames em rede pública de saúde da disciplina avaliação de sistemas da Faculdade Santíssimo Sacramento localizada em Alagoinhas-BA. Posteriormente este trabalho foi escolhido como tema para o tcc de alguns alunos envolvidos na sua produção.
+  Esse repositório tem como finalidade organizar os arquivos do trabalho MarcaiSUS: Uma proposta de aplicativo para marcação de consultas e exames em rede pública de saúde da disciplina avaliação de sistemas da Faculdade Santíssimo Sacramento localizada em Alagoinhas-BA. Posteriormente este trabalho foi escolhido como tema para o tcc de alguns dos alunos envolvidos na sua produção.
 
 ## Portal da Faculdade Santíssimo Sacramento
 [FSSS](https://www.fsssacramento.br/index.php)
